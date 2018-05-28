@@ -18,6 +18,6 @@ How to get started:<br />
 Caviats:<br />
 .the script suffers from dumb logic and other stuff<br />
 
-enjoy and if you wish to donate you can the find the links below:
+enjoy and if you wish to donate you can the find the links below:<br />
 [pay-pal](https://www.paypal.me/w3bb0)<br />
 [steam items](https://steamcommunity.com/tradeoffer/new/?partner=42975919&token=Gg_ChxfV)<br />
