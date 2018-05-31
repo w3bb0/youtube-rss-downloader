@@ -110,6 +110,4 @@ function checkChannels() {
         }
     });
 }
-updateAuthor("Linus Tech Tips", "AWSEDRTGH")
-checkChannels()
-//setInterval(checkChannels, config.priceRefreshInterval * 1000);
+setInterval(checkChannels, config.priceRefreshInterval * 1000);
